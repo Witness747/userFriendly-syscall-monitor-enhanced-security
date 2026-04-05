@@ -1,0 +1,15 @@
+# Python environment
+venv/
+__pycache__/
+*.pyc
+
+# OS specific
+.DS_Store
+.vscode/
+
+# Build artifacts
+*.o
+*.outvenv/
+__pycache__/
+*.o
+output.txt
